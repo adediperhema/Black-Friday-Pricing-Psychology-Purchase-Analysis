@@ -79,7 +79,7 @@ Discount depth: minimal volume response
 
 
 Sample Preview
-<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Stock-Sales-Performance-Strategic-Insights/blob/main/sales%20anaysis%20table%20sample%20data.png" />
+<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Black-Friday-Pricing-Psychology-Purchase-Analysis/blob/main/Black%20Friday%20Chart%20Image%201.png" />
 
 
 
