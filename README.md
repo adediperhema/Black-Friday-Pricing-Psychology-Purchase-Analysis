@@ -20,7 +20,8 @@ Shoppers spent **$35.1M** across 100,000 transactions on goods with a list value
 
 ## Dataset Summary
 
-<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Black-Friday-Pricing-Psychology-Purchase-Analysis/blob/main/Black%20Friday%20Sales%20Table%20Image%201.png" />
+<img width="1292" height="311" alt="Black Friday Sales Table Image 1" src="https://github.com/user-attachments/assets/1a6c378c-0563-4407-bb29-5e5635c53fb2" />
+
 
 
 
