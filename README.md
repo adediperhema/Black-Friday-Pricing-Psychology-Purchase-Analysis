@@ -175,7 +175,7 @@ Units per transaction are flat from items under $25 (1.43) to items of $1,000 an
 
 5	Design the final price	Prices are formula-driven. Test .99/.90 endings after discount and a $99 vs $100 threshold before assuming charm pricing helps or not.
 
-6	Fix the data foundations	One list price per product\_id, a stable customer segment, plus cost, traffic and cart data so true price elasticity can be measured.
+
 
 
 
