@@ -4,7 +4,7 @@
 
 
 
-##### Project Overview
+## Project Overview
 
 Shoppers spent **$35.1M** across 100,000 transactions on goods with a list value of $47.9M, so the retailer gave away **$12.7M** (26.6%) in discounts. The central finding is that **discount depth did not change how much people bought.** Units per transaction sit near 1.45 whether the discount is 5% or 60%, while average order value falls from $448 to $193. Deeper discounts simply reduced revenue per order irrespective of the **charm-pricing structure**.
 
@@ -22,7 +22,7 @@ Shoppers spent **$35.1M** across 100,000 transactions on goods with a list value
 
 
 
-##### Dataset Summary
+## Dataset Summary
 
 &#x09;	
 
@@ -42,7 +42,7 @@ Shoppers spent **$35.1M** across 100,000 transactions on goods with a list value
 
 
 
-##### Data Preparation and Quality
+## Data Preparation and Quality
 
 The following task in the data preparation phase:
 
@@ -58,7 +58,7 @@ The following task in the data preparation phase:
 
 
 
-##### Tool \& Technology
+## Tool \& Technology
 
 Microsoft Excel was used for:
 
@@ -71,14 +71,15 @@ Microsoft Excel was used for:
 
 
 
-##### Pricing psychology findings
+## Pricing psychology findings
 
 
 
 Discount depth: minimal volume response
 
 
-
+Sample Preview
+<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Stock-Sales-Performance-Strategic-Insights/blob/main/sales%20anaysis%20table%20sample%20data.png" />
 
 
 
@@ -114,11 +115,12 @@ Going from a 5% to a 60% discount leaves units per transaction unchanged (1.43 t
 
 
 
-##### Price anchors and list-price tiers
+## Price anchors and list-price tiers
 
 
 
-
+Sample Preview
+<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Stock-Sales-Performance-Strategic-Insights/blob/main/sales%20anaysis%20table%20sample%20data.png" />
 
 
 
@@ -130,18 +132,16 @@ Going from a 5% to a 60% discount leaves units per transaction unchanged (1.43 t
 
 Units per transaction are flat from items under $25 (1.43) to items of $1,000 and above (1.45), and the average discount is the same in every tier (26.6-26.8%). A higher price anchor does not make shoppers buy fewer units. Items listed at $1,000+ are 8.1% of transactions yet 39.7% of revenue and 39.5% of discount dollars.
 
+Sample Preview
+<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Stock-Sales-Performance-Strategic-Insights/blob/main/sales%20anaysis%20table%20sample%20data.png" />
 
 
 
-
-##### Purchase behaviour and recommendations
-
+## Purchase behaviour and recommendations
 
 
-
-
-
-
+Sample Preview
+<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Stock-Sales-Performance-Strategic-Insights/blob/main/sales%20anaysis%20table%20sample%20data.png" />
 
 
 
