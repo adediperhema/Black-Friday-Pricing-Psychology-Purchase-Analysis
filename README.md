@@ -139,7 +139,7 @@ Units per transaction are flat from items under $25 (1.43) to items of $1,000 an
 
 
 
-<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Stock-Sales-Performance-Strategic-Insights/blob/main/sales%20anaysis%20table%20sample%20data.png" />
+<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Black-Friday-Pricing-Psychology-Purchase-Analysis/blob/main/Black%20Friday%20Chart%20%20Image%204.png" />
 
 
 
@@ -178,7 +178,7 @@ Units per transaction are flat from items under $25 (1.43) to items of $1,000 an
 
 
 
-# Recommendations
+### Recommendations
 
 1	Cap discounts at 40%	Only 8.0% of orders (8,014) exceed 40%. Capping them lifts revenue by about $475K if no sales are lost, $248K if 10% are lost; break-even is a 21% loss of those orders (What\_If sheet). Margin gain would be larger.
 
