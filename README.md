@@ -65,7 +65,6 @@ Discount depth: minimal volume response
 
 
 <img width="1866" height="602" alt="Black Friday Chart Image 1" src="https://github.com/user-attachments/assets/05fa85ed-987e-4ef9-b293-a6605530fb09" />
-<img width="1837" height="602" alt="Black Friday Chart Image 2" src="https://github.com/user-attachments/assets/6e8578a3-720c-45ef-822a-32f337770d3d" />
 
 
 
