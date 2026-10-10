@@ -78,7 +78,8 @@ Discount depth: minimal volume response
 Going from a 5% to a 60% discount leaves units per transaction unchanged (1.43 to 1.47 across all ten levels)
 
 
-<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Black-Friday-Pricing-Psychology-Purchase-Analysis/blob/main/Black%20Friday%20Sales%20Table%20Image%202.png" />
+<img width="1287" height="191" alt="Black Friday Sales Table Image 2" src="https://github.com/user-attachments/assets/77267734-78a2-4c54-8566-ae268ffea9af" />
+
 
 
 
