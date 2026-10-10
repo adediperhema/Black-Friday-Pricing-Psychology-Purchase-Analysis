@@ -87,8 +87,7 @@ Going from a 5% to a 60% discount leaves units per transaction unchanged (1.43 t
 |Deep (50-60%)|8,014|1.454|$224|5.1%|15.6%|
 
 
-
-
+<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Black-Friday-Pricing-Psychology-Purchase-Analysis/blob/main/Black%20Friday%20Sales%20Table%20Image%202.png" />
 
 
 
