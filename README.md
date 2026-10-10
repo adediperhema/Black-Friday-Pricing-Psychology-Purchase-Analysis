@@ -133,7 +133,7 @@ Going from a 5% to a 60% discount leaves units per transaction unchanged (1.43 t
 Units per transaction are flat from items under $25 (1.43) to items of $1,000 and above (1.45), and the average discount is the same in every tier (26.6-26.8%). A higher price anchor does not make shoppers buy fewer units. Items listed at $1,000+ are 8.1% of transactions yet 39.7% of revenue and 39.5% of discount dollars.
 
 
-<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Stock-Sales-Performance-Strategic-Insights/blob/main/sales%20anaysis%20table%20sample%20data.png" />
+<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Black-Friday-Pricing-Psychology-Purchase-Analysis/blob/main/Black%20Friday%20Chart%20Image%203.png" />
 
 
 
