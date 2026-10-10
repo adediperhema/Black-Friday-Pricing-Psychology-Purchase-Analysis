@@ -1,4 +1,3 @@
-<img width="1291" height="87" alt="Black Friday Sales KPI image" src="https://github.com/user-attachments/assets/9ffbce9c-9bec-4479-80e9-e0f26717ee09" />
 # **Black Friday Pricing Psychology \& Purchase Analysis**
 
 
@@ -14,7 +13,8 @@ Shoppers spent **$35.1M** across 100,000 transactions on goods with a list value
 
 
 
-<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Black-Friday-Pricing-Psychology-Purchase-Analysis/blob/main/Black%20Friday%20Sales%20KPI%20image.png" />
+<img width="1291" height="87" alt="Black Friday Sales KPI image" src="https://github.com/user-attachments/assets/9ffbce9c-9bec-4479-80e9-e0f26717ee09" />
+
 
 
 
