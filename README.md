@@ -19,19 +19,6 @@ Shoppers spent **$35.1M** across 100,000 transactions on goods with a list value
 
 ## Dataset Summary
 
-&#x09;	
-
-|Size|100,000 transactions x 18 columns (26 after cleaning); one row per transaction|
-|-|-|
-|Period|24 Nov - 1 Dec 2025 (8 days, \~12,400-12,700 transactions per day); Black Friday = 28 Nov|
-|Customers / products|32,997 customers (avg 3.0 purchases each); 9,000 products in 10 categories|
-|Customer attributes|5 age groups, 3 genders, 10 US cities, 4 segments (New, Returning, Loyal, VIP)|
-|Pricing|List price $5.00 - $2,499.89 (median $180); 10 discount levels from 5% to 60% (most common 20-25%)|
-|Basket|1-5 units per order (70% single-unit); order value median $161, mean $351, max $11,442|
-|Payment|6 methods in near-equal shares (cash, credit, debit, gift card, mobile wallet, PayPal)|
-|Revenue mix|Electronics 40.2% and Home \& Kitchen 18.4% of revenue; each category is \~10% of transactions|
-
-
 <img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Black-Friday-Pricing-Psychology-Purchase-Analysis/blob/main/Black%20Friday%20Sales%20Table%20Image%201.png" />
 
 
