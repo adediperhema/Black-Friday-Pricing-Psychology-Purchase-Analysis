@@ -13,11 +13,6 @@ Shoppers spent **$35.1M** across 100,000 transactions on goods with a list value
 
 
 
-
-|Revenue|Transactions|Customers|Avg order value|Avg discount|Units / transaction|
-|-|-|-|-|-|-|
-|$35.1M|100,000|32,997|$351|26.6%|1.45|
-
 <img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Black-Friday-Pricing-Psychology-Purchase-Analysis/blob/main/Black%20Friday%20Sales%20KPI%20image.png" />
 
 
