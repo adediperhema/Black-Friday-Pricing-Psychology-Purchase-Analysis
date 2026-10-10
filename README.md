@@ -18,7 +18,7 @@ Shoppers spent **$35.1M** across 100,000 transactions on goods with a list value
 |-|-|-|-|-|-|
 |$35.1M|100,000|32,997|$351|26.6%|1.45|
 
-
+<img width="2000" height="1000" alt="dashboard" src="https://drive.google.com/file/d/1rtjlOFyiwTNUsLNtakRKR-MP78nftoaI/view?usp=drive_link" />
 
 
 
@@ -37,6 +37,7 @@ Shoppers spent **$35.1M** across 100,000 transactions on goods with a list value
 |Revenue mix|Electronics 40.2% and Home \& Kitchen 18.4% of revenue; each category is \~10% of transactions|
 
 
+<img width="2000" height="1000" alt="dashboard" src="https://drive.google.com/file/d/1hqanhBIaoAdrCWwDnVBCIbloAQpr34Us/view?usp=drive_link" />
 
 
 
