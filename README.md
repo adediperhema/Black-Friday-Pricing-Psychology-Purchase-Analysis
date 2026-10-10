@@ -1,1 +1,1 @@
-# Black-Friday-Pricing-Psychology-Purchase-Analysis
+# Black Friday Pricing Psychology & Purchase Analysis
