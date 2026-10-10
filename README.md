@@ -64,7 +64,9 @@ Discount depth: minimal volume response
 
 
 
-<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Black-Friday-Pricing-Psychology-Purchase-Analysis/blob/main/Black%20Friday%20Chart%20Image%201.png" />
+<img width="1866" height="602" alt="Black Friday Chart Image 1" src="https://github.com/user-attachments/assets/05fa85ed-987e-4ef9-b293-a6605530fb09" />
+<img width="1837" height="602" alt="Black Friday Chart Image 2" src="https://github.com/user-attachments/assets/6e8578a3-720c-45ef-822a-32f337770d3d" />
+
 
 
 
@@ -93,9 +95,7 @@ Going from a 5% to a 60% discount leaves units per transaction unchanged (1.43 t
 
 
 
-
-<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Black-Friday-Pricing-Psychology-Purchase-Analysis/blob/main/Black%20Friday%20Chart%20Image%202.png" />
-
+<img width="1837" height="602" alt="Black Friday Chart Image 2" src="https://github.com/user-attachments/assets/0d1a0432-d142-40d3-8ecb-baa7453f2ce1" />
 
 
 
@@ -113,7 +113,8 @@ Units per transaction are flat from items under $25 (1.43) to items of $1,000 an
 
 
 
-<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Black-Friday-Pricing-Psychology-Purchase-Analysis/blob/main/Black%20Friday%20Chart%20Image%203.png" />
+<img width="1702" height="485" alt="Black Friday Chart Image 3" src="https://github.com/user-attachments/assets/c71caea3-7744-476c-b906-d44dce231493" />
+
 
 
 
