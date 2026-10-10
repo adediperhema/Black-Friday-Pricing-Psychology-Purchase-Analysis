@@ -1,3 +1,4 @@
+<img width="1291" height="87" alt="Black Friday Sales KPI image" src="https://github.com/user-attachments/assets/9ffbce9c-9bec-4479-80e9-e0f26717ee09" />
 # **Black Friday Pricing Psychology \& Purchase Analysis**
 
 
