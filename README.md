@@ -139,7 +139,7 @@ Units per transaction are flat from items under $25 (1.43) to items of $1,000 an
 
 
 
-<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Black-Friday-Pricing-Psychology-Purchase-Analysis/blob/main/Black%20Friday%20Chart%20%20Image%204.png" />
+<img width="2000" height="1000" alt="dashboard" src="https://github.com/adediperhema/Black-Friday-Pricing-Psychology-Purchase-Analysis/blob/main/Black%20Friday%20Chart%20Image%203.png" />
 
 
 
@@ -154,22 +154,7 @@ Units per transaction are flat from items under $25 (1.43) to items of $1,000 an
 
 • Timing: Black Friday (12,633 orders) looks like any other day: same average discount (26.6%), order value $347 vs $352. Daily revenue stays within $4.31M-$4.51M and hourly volume within 4,030-4,300 orders, so there is no demand peak to exploit.
 
-• Demographics: age, gender and city show no significant difference in order value or discount (all p > 0.05). Category is the only meaningful driver of spend.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+• Demographics: age, gender and city show minimal difference in order value or discount. Category is the only meaningful driver of spend.
 
 
 
