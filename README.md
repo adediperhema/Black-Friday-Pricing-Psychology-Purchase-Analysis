@@ -106,6 +106,14 @@ Going from a 5% to a 60% discount leaves units per transaction unchanged (1.43 t
 Units per transaction are flat from items under $25 (1.43) to items of $1,000 and above (1.45), and the average discount is the same in every tier (26.6-26.8%). A higher price anchor does not make shoppers buy fewer units. Items listed at $1,000+ are 8.1% of transactions yet 39.7% of revenue and 39.5% of discount dollars.
 
 
+## Dashboard Pricing Preview 
+<img width="1271" height="923" alt="Dashboard_Pricing_preview" src="https://github.com/user-attachments/assets/cc9466e4-94a6-431e-ba15-fd17796828bd" />
+
+
+
+## Dashboard Purchase Preview 
+<img width="1271" height="923" alt="Dashboard_Purchase_preview" src="https://github.com/user-attachments/assets/98389f03-8b74-4d6f-86e7-0a3be3878894" />
+
 
 
 ## Purchase behaviour and recommendations
