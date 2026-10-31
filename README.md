@@ -148,15 +148,15 @@ Units per transaction are flat from items under $25 (1.43) to items of $1,000 an
 
 ### Recommendations
 
-1	Cap discounts at 40%	Only 8.0% of orders (8,014) exceed 40%. Capping them lifts revenue by about $475K if no sales are lost, $248K if 10% are lost; break-even is a 21% loss of those orders (What\_If sheet). Margin gain would be larger.
+1.	Cap discounts at 40%	Only 8.0% of orders (8,014) exceed 40%. Capping them lifts revenue by about $475K if no sales are lost, $248K if 10% are lost; break-even is a 21% loss of those orders (What\_If sheet). Margin gain would be larger.
 
-2	A/B test discount depth	This data has buyers only. Test 20% vs 30% vs 40% on matched traffic and measure conversion, not just basket size.
+2.	A/B test discount depth	This data has buyers only. Test 20% vs 30% vs 40% on matched traffic and measure conversion, not just basket size.
 
-3	Tier discounts by price and category	Today a $20 book and a $2,000 TV get the same expected discount. Concentrate depth where margin allows; Electronics drives 40% of revenue.
+3.	Tier discounts by price and category	Today a $20 book and a $2,000 TV get the same expected discount. Concentrate depth where margin allows; Electronics drives 40% of revenue.
 
-4	Make loyalty visible	VIP and Loyal customers get the same discount as New ones (26.5% vs 26.7%). Use early access or perks instead of deeper blanket discounts.
+4.	Make loyalty visible	VIP and Loyal customers get the same discount as New ones (26.5% vs 26.7%). Use early access or perks instead of deeper blanket discounts.
 
-5	Design the final price	Prices are formula-driven. Test .99/.90 endings after discount and a $99 vs $100 threshold before assuming charm pricing helps or not.
+5.	Design the final price	Prices are formula-driven. Test .99/.90 endings after discount and a $99 vs $100 threshold before assuming charm pricing helps or not.
 
 
 
