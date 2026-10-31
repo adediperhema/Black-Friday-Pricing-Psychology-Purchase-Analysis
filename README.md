@@ -107,12 +107,13 @@ Units per transaction are flat from items under $25 (1.43) to items of $1,000 an
 
 
 ## Dashboard Pricing Preview 
-<img width="1271" height="923" alt="Dashboard_Pricing_preview" src="https://github.com/user-attachments/assets/cc9466e4-94a6-431e-ba15-fd17796828bd" />
+<img width="1260" height="891" alt="Dashboard_Pricing_preview" src="https://github.com/user-attachments/assets/bc7c7b56-2a2d-44cd-91f3-b0a6a1f9e97e" />
+
 
 
 
 ## Dashboard Purchase Preview 
-<img width="1271" height="923" alt="Dashboard_Purchase_preview" src="https://github.com/user-attachments/assets/98389f03-8b74-4d6f-86e7-0a3be3878894" />
+<img width="1247" height="892" alt="Dashboard_Purchase_preview" src="https://github.com/user-attachments/assets/134e743e-0297-498b-871b-52e18ccf3b4e" />
 
 
 
